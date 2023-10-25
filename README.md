@@ -1,4 +1,4 @@
-# 📚 Fresno State IS160: Artificial Intelligence in Business Lab
+# 📚 Fresno State IS160: Artificial Intelligence in Business Labs
 
 Welcome to the repository for IS160 labs taught by **Dr. Choi**. This repository contains 8 labs spanning from manual calculations in Deep Learning to explorations using the Stable Diffusion tool.
 
