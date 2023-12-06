@@ -1,6 +1,6 @@
 # 📚 Fresno State IS160: Artificial Intelligence in Business Labs
 
-Welcome to the repository for IS160 labs taught by **Dr. Choi**. This repository contains 8 labs spanning from manual calculations in Deep Learning to explorations using the Stable Diffusion tool.
+Welcome to the repository for IS160 labs taught by **Dr. Choi**. This repository contains 14 labs spanning from manual calculations in Deep Learning to explorations using the Stable Diffusion tool and AI-driven information systems.
 
 ## 📖 Table of Contents
 
@@ -12,6 +12,12 @@ Welcome to the repository for IS160 labs taught by **Dr. Choi**. This repository
 - [Lab 6: Deep Learning Model Critical Thinking II](#lab-6-deep-learning-model-critical-thinking-ii)
 - [Lab 7: Prompt Engineering (Stable Diffusion)](#lab-7-prompt-engineering-stable-diffusion)
 - [Lab 8: Image to Image (Stable Diffusion)](#lab-8-image-to-image-stable-diffusion)
+- [Lab 9: Digital Binder & CV (Draft)](#lab-9-digital-binder--cv-draft)
+- [Lab 10: Reinforcement Learning Diagram](#lab-10-reinforcement-learning-diagram)
+- [Lab 11: Markov Decision Process](#lab-11-markov-decision-process)
+- [Lab 12: AWS DeepRacer for RL Concept](#lab-12-aws-deepracer-for-rl-concept)
+- [Lab 13: Responsible AI](#lab-13-responsible-ai)
+- [Lab 14: AI-driven Information System](#lab-14-ai-driven-information-system)
 
 ---
 
@@ -83,3 +89,61 @@ Welcome to the repository for IS160 labs taught by **Dr. Choi**. This repository
 
 ---
 
+### Lab 9: Digital Binder & CV (Draft)
+
+**Task:** Create a digital binder and a draft CV, compiling all coding projects from the course.
+
+- **Title and Description**: Title each project with a concise description.
+- **Code Comments**: Include comments for each line of code.
+- **Output Assessment**: Write a paragraph assessing the output of each project, highlighting key learnings and takeaways.
+
+---
+
+### Lab 10: Reinforcement Learning Diagram
+
+**Task:** Design six Reinforcement Learning environments, each in a unique genre.
+
+- **Environment Definition**: Clearly define items and states in each environment.
+- **State Actions and Values**: Detail actions and values for each state.
+- **Illustration**: Include a diagram for clarity.
+
+---
+
+### Lab 11: Markov Decision Process
+
+**Task:** Apply the Bellman equation to the environments from Lab 10.
+
+- **Bellman Equation Application**: Use fictitious values for states.
+- **Discount Rate and V (Q) Value**: Select a discount rate and calculate V (Q).
+- **Equations and Calculations**: Show complete calculations leading to the Q table.
+
+---
+
+### Lab 12: AWS DeepRacer for RL Concept
+
+**Task:** Utilize AWS DeepRacer to understand Reinforcement Learning concepts.
+
+- **AWS DeepRacer Research**: Study provided information.
+- **DeepRacer League Participation**: Build, train, and compete with a vehicle.
+- **Documentation**: Include screenshots of the process and vehicle.
+- **Understanding MDP and Bellman Equation**: Apply these concepts throughout the lab.
+
+---
+
+### Lab 13: Responsible AI
+
+**Task:** Discuss and analyze responsible AI practices.
+
+- **Article Discussion**: Review specific articles related to AI ethics.
+- **Consulting Perspective**: Propose solutions for companies facing ethical AI issues.
+- **Virtual Sully Project**: Discuss coding statements for AI implementation in transportation.
+
+---
+
+### Lab 14: AI-driven Information System
+
+**Task:** Develop a concept for an AI-driven information system.
+
+- **System Definition**: Define the type, users, and expected results of the system.
+- **Development Phases**: Outline activities for each phase.
+- **Ethical Considerations**: Address ethical concerns in the system's design.
